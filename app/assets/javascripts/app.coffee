@@ -1,0 +1,2 @@
+weathermotion = angular.module('weathermotion', [
+])
